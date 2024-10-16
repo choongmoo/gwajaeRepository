@@ -1,4 +1,4 @@
-// C program for Merge Sort
+// C program for Merge Sortttt
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -8,7 +8,7 @@
 void merge(int arr[], int l,
 		int m, int r)
 {
-	int i, j, k;
+	int i, j, k, l, o, p;
 	int n1 = m - l + 1;
 	int n2 = r - m;
 
